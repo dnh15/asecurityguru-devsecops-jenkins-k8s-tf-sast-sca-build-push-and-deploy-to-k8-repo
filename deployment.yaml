@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: daabuggy
-        image: 145988340565.dkr.ecr.us-west-2.amazonaws.com/asg
+        image: 182399689628.dkr.ecr.us-east-1.amazonaws.com/daa
         imagePullPolicy: Always
         ports:
         - containerPort: 8080
